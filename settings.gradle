@@ -1,0 +1,3 @@
+include ':tredoCoreLibrary'
+include ':app'
+rootProject.name = "TredoCore"
